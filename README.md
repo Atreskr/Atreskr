@@ -1,10 +1,10 @@
 ### Sobre mim
-#### Editando Perfil
 
-- 👋 Olá, eu sou *@Atreskr*
-- 📧 Meu email é **a.renzcherchen**
+____________________________________________________________________
+
+- 👋 Olá, eu sou o *Prof. Anderson*
+- 📧 Meu email é **anderson.renzcherchen@escola.pr.gov.br**
 - 👀 Eu tenho interesse em pensamento computacional
-- 
 
 
 ![Scratch](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
